@@ -29,7 +29,7 @@ const materias = [
  { codigo: "40528", nombre: "Ecuaciones Diferenciales", creditos: 3, semestre: 4, requisitos: ["40523"] },
  { codigo: "40529", nombre: "Fisicoquímica II", creditos: 3, semestre: 4, requisitos: ["40524"] },
  { codigo: "40530", nombre: "Laboratorio de Fisicoquímica I", creditos: 2, semestre: 4, requisitos: ["40524"] },
- { codigo: "40530", nombre: "Química Analítica II", creditos: 3, semestre: 4, requisitos: ["40525"] },
+ { codigo: "40531", nombre: "Química Analítica II", creditos: 3, semestre: 4, requisitos: ["40525"] },
  { codigo: "40557", nombre: "Inglés III", creditos: 2, semestre: 4, requisitos: ["40556"] },
 
  // Semestre 5
@@ -37,7 +37,7 @@ const materias = [
  { codigo: "40533", nombre: "Laboratorio de Química Orgánica I", creditos: 2, semestre: 5, requisitos: ["40527"] },
  { codigo: "40534", nombre: "Química Cuántica", creditos: 3, semestre: 5, requisitos: ["40528"] },
  { codigo: "40535", nombre: "Laboratorio de Fisicoquímica II", creditos: 2, semestre: 5, requisitos: ["40528"] },
- { codigo: "40536", nombre: "Laboratorio de Química Analítica II", creditos: 2, semestre: 5, requisitos: ["40530"] },
+ { codigo: "40536", nombre: "Laboratorio de Química Analítica II", creditos: 2, semestre: 5, requisitos: ["40531"] },
  { codigo: "40558", nombre: "Inglés IV", creditos: 2, semestre: 5, requisitos: ["40557"] },
  { codigo: "Cont1", nombre: "Contexto I", creditos: 2, semestre: 5, requisitos: [] },
 
