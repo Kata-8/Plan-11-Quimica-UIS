@@ -46,8 +46,8 @@ const materias = [
  { codigo: "40538", nombre: "Laboratorio de Química Orgánica II", creditos: 2, semestre: 6, requisitos: ["40532", "40533"] },
  { codigo: "40539", nombre: "Bioquímica I", creditos: 3, semestre: 6, requisitos: ["40533"] },
  { codigo: "40540", nombre: "Química Inorgánica I", creditos: 3, semestre: 6, requisitos: [] },
- { codigo: "40541", nombre: "Química Analítica III", creditos: 3, semestre: 6, requisitos: ["40530"] },
- { codigo: "40542", nombre: "Laboratorio de Química Analítica III", creditos: 2, semestre: 6, requisitos: ["40530"] },
+ { codigo: "40541", nombre: "Química Analítica III", creditos: 3, semestre: 6, requisitos: ["40531"] },
+ { codigo: "40542", nombre: "Laboratorio de Química Analítica III", creditos: 2, semestre: 6, requisitos: ["40531"] },
 
  // Semestre 7
  { codigo: "40543", nombre: "Diseño de Experimentos", creditos: 3, semestre: 7, requisitos: ["40532", "40533", "40534", "40535", "40536"] },
